@@ -1,9 +1,8 @@
-
-# Math Magicians
+# React To-Do App Tutorial
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to Make simple calculations, Read a random math-related quote built with ReactJS and scss
+This tutorial, divided into several parts, is very comprehensive, and covers all main concepts about React, from the very basics to some intermediate topics.
 
 
 ## 🧰 Built With
@@ -29,7 +28,7 @@ Not Available Yet.
 
 #### Step 2:
 
-- Run index.html file in your browser
+- Run npm start in your terminal.
 
 ## Author
 
@@ -44,4 +43,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
